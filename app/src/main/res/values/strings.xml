@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CountCounter</string>
+    <string name="str1">Hello Siri</string>
+    <string name="str2">CuiJie</string>
+    <string name="TeamA">Team A</string>
+    <string name="ScoreA">0</string>
+    <string name="Add3">+3 POINTS</string>
+    <string name="Add2">+2 POINTS</string>
+    <string name="FreeA">FREE THROW</string>
+    <string name="TeamB">Team B</string>
+    <string name="ScoreB">0</string>
+    <string name="reset">RESET</string>
+</resources>
